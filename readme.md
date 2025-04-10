@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/sawamoha20/sawamoha20/master/readme_header.png "Header")](https://mosouab.me)
 [![trophy](https://github-profile-trophy.vercel.app/?username=sawamoha20&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
